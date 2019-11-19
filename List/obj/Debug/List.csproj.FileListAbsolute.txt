@@ -1,0 +1,9 @@
+d:\Рабочий стол\Ялпута проекты\List\List\bin\Debug\List.exe.config
+d:\Рабочий стол\Ялпута проекты\List\List\bin\Debug\List.exe
+d:\Рабочий стол\Ялпута проекты\List\List\bin\Debug\List.pdb
+d:\Рабочий стол\Ялпута проекты\List\List\obj\Debug\List.csprojAssemblyReference.cache
+d:\Рабочий стол\Ялпута проекты\List\List\obj\Debug\List.Form1.resources
+d:\Рабочий стол\Ялпута проекты\List\List\obj\Debug\List.Properties.Resources.resources
+d:\Рабочий стол\Ялпута проекты\List\List\obj\Debug\List.csproj.GenerateResource.cache
+d:\Рабочий стол\Ялпута проекты\List\List\obj\Debug\List.exe
+d:\Рабочий стол\Ялпута проекты\List\List\obj\Debug\List.pdb
